@@ -6,7 +6,7 @@
 
 ## Projects
 1. [basic_model_random_dataset](https://github.com/alicenkbaytop/DL-Tensorflow-Keras/tree/main/basic_model_random_dataset).
-2. 
+2. [MNIST_Fashion](https://github.com/alicenkbaytop/DL-Tensorflow-Keras/blob/main/MNIST_Fashion.ipynb)
 3. 
 4. 
 
