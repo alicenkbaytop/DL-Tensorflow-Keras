@@ -1,4 +1,4 @@
-# 💻DL-Tensorflow-Keras💻
+# 💻 Deep Learning Basic Projects 💻
 
 ![Keras Tensorflow](https://miro.medium.com/max/700/0*BrC7o-KTt54z948C.jpg)
 
