@@ -1,7 +1,5 @@
 # 💻DL-Tensorflow-Keras💻
 
-Tensorflow/Keras applications
-
 ![Keras Tensorflow](https://miro.medium.com/max/700/0*BrC7o-KTt54z948C.jpg)
 
 ## Repository Information
