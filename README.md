@@ -5,25 +5,29 @@
 ## ❗ Warnings ❗
 * Check your libraries version.
 * Check your files path.
-* Check your 
 
 ## 🔍 Repository Information 🔍
+...
 
 ## 💻 Projects 💻
 1. [basic_model_random_dataset](https://github.com/alicenkbaytop/DL-Tensorflow-Keras/tree/main/basic_model_random_dataset)
 2. [MNIST_Fashion](https://github.com/alicenkbaytop/DL-Tensorflow-Keras/tree/main/mnist_fashion(National%20Institute%20of%20Standards%20and%20Technology))
 3. 
-4. 
+4. ...
 
 ## ⚡ Requirements ⚡
 
-There are some general library requirements for the Project. The general requirements are as follows.
+There are some general programming language, library or service requirements for the Projects. The general requirements are as follows.
  * Python
- *	Numpy
+ *	[Numpy](https://medium.com/@baytop.alicenk/numpy-%C3%B6%C4%9Frenmek-0-d7b35876adfe)
+ * [Pandas](https://medium.com/@baytop.alicenk/pandas-%C3%B6%C4%9Frenmek-0-64ad05faf8e8)
  *	Scikit-learn
  * Keras
  * Tensorflow
+ * [Colab](https://medium.com/developer-student-clubs-altinbas/colab-guide-for-beginners-394f66b59d20)
+ * ...
  
 For Visualization
  *	Matplotlib
  *	Seaborn
+ * ...
